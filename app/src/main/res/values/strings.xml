@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MultiScreen_Kutepov</string>
+    <string name="Argentina">Флаг Аргентины</string>
+    <string name="Brasilia">Флаг Бразилии</string>
+    <string name="Chili">Флаг Чили</string>
+    <string name="Columbia">Флаг Колумбии</string>
+    <string name="Urugvai">Флаг Уругвая</string>
+
+</resources>
